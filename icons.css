@@ -1,7 +1,16 @@
-.button1 {
+div {
+    height: 40px;
+    width: 100px;
+    color: rgb(7, 75, 134);
+    border: rgb(185, 11, 151);
+    border-radius: 8px;
+    font-size: 25px;
+    font-weight: italic bold;
+}
+.one {
     padding: 5px;
     background-color:#1947c5e0 ;
-    color: rgb(5, 46, 82);
-    border-radius: 4px;
+    color: rgb(190, 39, 39);
+    border-radius: 8px;
     
 }
